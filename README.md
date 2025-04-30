@@ -14,8 +14,7 @@
 **Languages**  
 `C` | `Python` | `Java` | `JavaScript` | `TypeScript` | `HTML` | `CSS`
 
-**Libraries & Frameworks**  
-- Python Libraries  
+**Libraries & Frameworks**   
 - React.js  
 - Java Libraries  
 - Spring / Spring Boot  
